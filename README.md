@@ -18,7 +18,7 @@ INSTALL INSTRUCTIONS
 
 4. click 'Load unpacked' button on the new navbar that is at the top left, directly under the 'Extensions' word.
 
-5. navigate to your saved folder on the desktop, and click 'select'.
+5. navigate to your saved folder on the desktop, and click on the 'Google-Ad-Remover' folder and then click 'select'.
 
 6. make sure the extension shows up on the chrome://extensions page, and that it is turned on (should show a blue toggle on the bottom right of the extension window)
 
