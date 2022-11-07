@@ -10,7 +10,7 @@ I did leave the ad section that displays images, so that this extension can rema
 
 INSTALL INSTRUCTIONS
 
-1. download and save the file from github to your desktop for easy access. You can delete this folder when you finish installing in chrome if you wish.
+1. click on the CODE button (green button) and select 'download zip'. Extract and save the file from github to your desktop for easy access. You can delete this folder when you finish installing in chrome if you wish.
 2. open chrome and navigate to the extension button and click the 'manage extensions' button on the bottom of the window.
    3.This will open up the chrome://extensions window. Navigate to the upper right and click the toggle for Developer mode (should turn blue when clicked).
 
