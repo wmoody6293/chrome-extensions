@@ -1,4 +1,4 @@
-# chrome-extensions
+# Google-Ad-Remover
 
 DESCRIPTION
 
