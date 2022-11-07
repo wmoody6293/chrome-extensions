@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Google-Search Ad Remover",
+    "version": "1.0",
+    "description": "Removes the ads from the top and bottom of the search results page of Google.",
+    "content_scripts": [
+        {
+            "js": ["scripts/content.js"],
+            "matches": [
+              "https://www.google.com/*"  
+            ]
+        }
+    ]
+}
