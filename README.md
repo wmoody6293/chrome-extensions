@@ -14,7 +14,7 @@ INSTALL INSTRUCTIONS
 
 2. open chrome and navigate to the extension button and click the 'manage extensions' button on the bottom of the window.
 
-3.This will open up the chrome://extensions window. Navigate to the upper right and click the toggle for Developer mode (should turn blue when clicked).
+3. This will open up the chrome://extensions window. Navigate to the upper right and click the toggle for Developer mode (should turn blue when clicked).
 
 4. click 'Load unpacked' button on the new navbar that is at the top left, directly under the 'Extensions' word.
 
