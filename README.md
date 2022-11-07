@@ -11,10 +11,15 @@ I did leave the ad section that displays images, so that this extension can rema
 INSTALL INSTRUCTIONS
 
 1. click on the CODE button (green button) and select 'download zip'. Extract and save the file from github to your desktop for easy access. You can delete this folder when you finish installing in chrome if you wish.
-2. open chrome and navigate to the extension button and click the 'manage extensions' button on the bottom of the window.
-   3.This will open up the chrome://extensions window. Navigate to the upper right and click the toggle for Developer mode (should turn blue when clicked).
 
-4) click 'Load unpacked' button on the new navbar that is at the top left, directly under the 'Extensions' word.
-   5)navigate to your saved folder on the desktop, and click 'select'.
-5) make sure the extension shows up on the chrome://extensions page, and that it is turned on (should show a blue toggle on the bottom right of the extension window)
-6) close the chrome browser, reopen it, then go to Google and try it out!
+2. open chrome and navigate to the extension button and click the 'manage extensions' button on the bottom of the window.
+
+3.This will open up the chrome://extensions window. Navigate to the upper right and click the toggle for Developer mode (should turn blue when clicked).
+
+4. click 'Load unpacked' button on the new navbar that is at the top left, directly under the 'Extensions' word.
+
+5. navigate to your saved folder on the desktop, and click 'select'.
+
+6. make sure the extension shows up on the chrome://extensions page, and that it is turned on (should show a blue toggle on the bottom right of the extension window)
+
+7. close the chrome browser, reopen it, then go to Google and try it out!
