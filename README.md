@@ -10,7 +10,7 @@ I did leave the ad section that displays images, so that this extension can rema
 
 INSTALL INSTRUCTIONS
 
-1. click on the CODE button (green button) and select 'download zip'. Extract and save the file from github to your desktop for easy access. You can delete this folder when you finish installing in chrome if you wish.
+1. click on the CODE button (green button) and select 'download zip'. Extract and save the file from github to your computer in a location where you can get to it for installation later, but it won't be in the way. I recommend saving it to your Documents folder. You should keep the folder on your computer, as the extension will not work if you delete the folder.
 
 2. open chrome and navigate to the extension button and click the 'manage extensions' button on the bottom of the window.
 
